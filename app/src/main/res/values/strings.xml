@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sitiga</string>
+    <string name="informasi">Memuat Informasi tentang data strategis di Kota Salatiga</string>
+    <string name="sistem_informasi_statistik_salatiga">Sistem Informasi Statistik Salatiga</string>
+    <string name="kependudukan">Kependudukan</string>
+    <string name="PDRD">PDRD</string>
+    <string name="tenaga">TenagaKerja</string>
+    <string name="IPM">IPM</string>
+    <string name="Kemiskinan">Kemiskinan</string>
+    <string name="Lainnya">Lainnya</string>
+</resources>
