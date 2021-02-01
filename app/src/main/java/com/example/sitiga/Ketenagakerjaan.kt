@@ -19,6 +19,7 @@ class Ketenagakerjaan : AppCompatActivity() {
         btn_kemabli_ketenagakerjaan.setOnClickListener {
             val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)
+
         }
     }
     private fun webView2() {

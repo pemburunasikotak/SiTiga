@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Ketenagakerjaan">
+    tools:context=".Pdrd">
 
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:textSize="30dp"
-        android:text="@string/PDRD"
+        android:text="PDRB"
         android:textStyle="bold"
         android:textAlignment="center"
         android:textColor="#f000"
@@ -23,7 +23,7 @@
     <WebView
         android:id="@+id/webViewpdrd"
         android:layout_width="match_parent"
-        android:layout_height="722dp"
+        android:layout_height="650dp"
         android:layout_marginTop="1dp"
         app:layout_constraintTop_toBottomOf="@+id/text_home"
         tools:layout_editor_absoluteX="43dp">

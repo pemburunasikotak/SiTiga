@@ -20,6 +20,7 @@ class Kemiskinan : AppCompatActivity() {
         btn_kembali_miskin.setOnClickListener {
             val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)
+
         }
 
     }

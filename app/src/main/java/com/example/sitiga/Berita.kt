@@ -19,6 +19,7 @@ class Berita : AppCompatActivity() {
         btn_kbl_berita.setOnClickListener {
             val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)
+
         }
     }
     private fun webView2() {

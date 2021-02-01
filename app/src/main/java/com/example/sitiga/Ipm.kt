@@ -19,6 +19,7 @@ class Ipm : AppCompatActivity() {
         btn_kemabli_ipm.setOnClickListener {
             val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)
+
         }
     }
     private fun webView2() {

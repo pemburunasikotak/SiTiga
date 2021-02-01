@@ -19,6 +19,7 @@ class Kependudukan : AppCompatActivity() {
         btn_kembali_penduduk.setOnClickListener {
             val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)
+
         }
     }
     private fun webView2() {

@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         btn_next.setOnClickListener {
             val intent =Intent(this,HomeActivity::class.java)
             startActivity(intent)
+
         }
         fullscreen()
     }

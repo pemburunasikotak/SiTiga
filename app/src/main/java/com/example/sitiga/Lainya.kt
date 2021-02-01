@@ -19,6 +19,7 @@ class Lainya : AppCompatActivity() {
         btn_kemabli_lainya.setOnClickListener {
             val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)
+
         }
     }
     private fun webView2() {

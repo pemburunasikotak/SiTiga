@@ -11,12 +11,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="end"
         android:orientation="vertical">
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="80dp"
-            android:background="@drawable/ic_group_1991"
-            android:layout_gravity="center"/>
+
 
         <TextView
             android:layout_width="match_parent"
@@ -67,7 +62,7 @@
             android:id="@+id/btn_next"
             android:layout_width="120dp"
             android:layout_height="45dp"
-            android:layout_marginVertical="120dp"
+            android:layout_marginVertical="30dp"
             android:background="@drawable/ic_bg_bulat"
             android:text="Next"
             android:textAlignment="center"
